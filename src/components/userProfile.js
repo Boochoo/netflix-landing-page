@@ -8,7 +8,7 @@ var UserProfile = createReactClass({
     return (
       <div className="UserProfile">
         <div className="User">
-          <div className="name">Jack Oliver</div>
+          <div className="name">Mr. Boochoo</div>
           <div className="image"><img src={Logo} alt="profile" /></div>
         </div>
       </div>
